@@ -1,0 +1,20 @@
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\bin\Debug\SınavOdev_0.exe.config
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\bin\Debug\SınavOdev_0.exe
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\bin\Debug\SınavOdev_0.pdb
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.Form1.resources
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.exe
+C:\Users\Lenovo\source\repos\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.pdb
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\bin\Debug\SınavOdev_0.exe.config
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\bin\Debug\SınavOdev_0.exe
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\bin\Debug\SınavOdev_0.pdb
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.Form1.resources
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.exe
+C:\Users\Lenovo\Desktop\Projeler\SınavOdev_0 (3)\SınavOdev_0\SınavOdev_0\obj\Debug\SınavOdev_0.pdb
